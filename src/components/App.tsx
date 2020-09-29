@@ -22,7 +22,7 @@ function App() {
   return (
     <div>
       <div>
-        <NewNoteInput addNote={onAddNote} />
+        {/* <NewNoteInput addNote={onAddNote} /> */}
         {/* <ul>
           {notes.map((note) => {
             return <li key={note}>{note}</li>;
